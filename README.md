@@ -12,37 +12,38 @@
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/subframe7536/maple-font@variable/woff2/var/MapleMono-NF-CN-VF.woff2"
 />
-<style>
-  @import url('https://cdn.jsdelivr.net/gh/subframe7536/maple-font@variable/woff2/var/MapleMono-NF-CN-VF.woff2');
-  * {
-    font-family: 'Maple Mono NF CN', 'Maple Mono NF', 'Maple Mono', 'JetBrains Mono', 'Fira Code', 'SF Mono', monospace !important;
-    font-weight: 400;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-rendering: optimizeLegibility;
-  }
-</style>
+
 </p>
 
 
-### **Hello!**
+### **$ Hello!**
 
-```bash
-┌──(zkbkb@github)-[~]
-└─$ Kaibin Zhang
+
+┌─(**zkbkb@github**)─[~]
+└─➤ cat ~/.profile
+<pre>
 ╔══════════════════════════════════════════════════════════╗
-║     ██╗  ██╗ █████╗ ██╗██████╗ ██╗███╗   ██╗             ║
-║     ██║ ██╔╝██╔══██╗██║██╔══██╗██║████╗  ██║             ║
-║     █████╔╝ ███████║██║██████╔╝██║██╔██╗ ██║             ║
-║     ██╔═██╗ ██╔══██║██║██╔══██╗██║██║╚██╗██║             ║
-║     ██║  ██╗██║  ██║██║██████╔╝██║██║ ╚████║             ║
-║     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝             ║
+║      ██╗  ██╗ █████╗ ██╗██████╗ ██╗███╗   ██╗            ║
+║      ██║ ██╔╝██╔══██╗██║██╔══██╗██║████╗  ██║            ║
+║      █████╔╝ ███████║██║██████╔╝██║██╔██╗ ██║            ║
+║      ██╔═██╗ ██╔══██║██║██╔══██╗██║██║╚██╗██║            ║
+║      ██║  ██╗██║  ██║██║██████╔╝██║██║ ╚████║            ║
+║      ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝            ║
 ╠══════════════════════════════════════════════════════════╣
 ║  Name         │ Kaibin Zhang                             ║
 ║  Status       │ BA Student                               ║
-║  Focus        │ AI • Mobile • Robotics                   ║
+║  Location     │ University College London, UK            ║
 ╚══════════════════════════════════════════════════════════╝
-```
+</pre>
+
+┌─(**zkbkb@github**)─[~]
+└─➤ systemctl status developer.contact
+● developer.contact - get info
+2025-01-07 14:30 [INFO] Getting contact info...
+[1/4] linkedin.com/in/kaibin-zhang DONE
+[2/4] mailto:zzkbkbb@gmail.com DONE
+[3/4] instagram.com/zzzkkb DONE
+[4/4] [bsky.app/profile/zkbkb.bsky.social](https://bsky.app/profile/zkbkb.bsky.social) DONE
 
 ### **I know a bit of...**
 
@@ -97,7 +98,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:zzkbkbb@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
   </a>
 
   <a href="https://instagram.com/zzzkkb">
@@ -105,26 +106,14 @@
   </a>
 
   <a href="https://bsky.app/profile/zkbkb.bsky.social">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=bluesky&theme=dark" alt="Bluesky" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=bluesky" alt="Bluesky" />
   </a>
 </div>
 
-<!-- Maple Mono Font Styling for Better Display -->
-<style>
-  .markdown-body {
-    font-family: 'Maple Mono NF CN', 'Maple Mono NF', 'Maple Mono', 'JetBrains Mono', 'Fira Code', 'SF Mono', monospace !important;
-    font-weight: 400;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-rendering: optimizeLegibility;
-  }
-  .markdown-body pre,
-  .markdown-body code {
-    font-family: 'Maple Mono NF CN', 'Maple Mono NF', 'Maple Mono', 'JetBrains Mono', 'Fira Code', 'SF Mono', monospace !important;
-    font-weight: 400;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
-</style>
-
-</div>
+```typescript
+const developer = {
+  name: "Kaibin Zhang",
+  role: "BA Student",
+  location: "University College London, UK",
+  focus: ["AI Systems", "Mobile Development", "Robotics"]
+};
