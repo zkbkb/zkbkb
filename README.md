@@ -18,10 +18,9 @@
 
 ### **$ Hello!**
 
-
+<pre>
 ┌─(**zkbkb@github**)─[~]
 └─➤ cat ~/.profile
-<pre>
 ╔══════════════════════════════════════════════════════════╗
 ║      ██╗  ██╗ █████╗ ██╗██████╗ ██╗███╗   ██╗            ║
 ║      ██║ ██╔╝██╔══██╗██║██╔══██╗██║████╗  ██║            ║
@@ -34,9 +33,7 @@
 ║  Status       │ BA Student                               ║
 ║  Location     │ University College London, UK            ║
 ╚══════════════════════════════════════════════════════════╝
-</pre>
-
-┌─(**zkbkb@github**)─[~]
+┌─(**zkbkb@github**)─[~] 
 └─➤ systemctl status developer.contact
 ● developer.contact - get info
 2025-01-07 14:30 [INFO] Getting contact info...
@@ -44,6 +41,7 @@
 [2/4] mailto:zzkbkbb@gmail.com DONE
 [3/4] instagram.com/zzzkkb DONE
 [4/4] [bsky.app/profile/zkbkb.bsky.social](https://bsky.app/profile/zkbkb.bsky.social) DONE
+</pre>
 
 ### **I know a bit of...**
 
