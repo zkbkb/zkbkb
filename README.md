@@ -85,9 +85,9 @@
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=zkbkb&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zkbkb&theme=tokyonight&hide_border=true"/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zkbkb&theme=tokyo-night&hide_border=true"/>
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=zkbkb&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -107,11 +107,3 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=bluesky" alt="Bluesky" />
   </a>
 </div>
-
-```typescript
-const developer = {
-  name: "Kaibin Zhang",
-  role: "BA Student",
-  location: "University College London, UK",
-  focus: ["AI Systems", "Mobile Development", "Robotics"]
-};
