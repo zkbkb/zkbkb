@@ -42,13 +42,18 @@
   
 </pre>
 
+<!--
 <div align="center">
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zkbkb&theme=tokyonight&hide_border=true"/>
 </div>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=zkbkb&hide_border=true&border_radius=4.4&exclude_days=Sun%2CFri%2CSat)](https://git.io/streak-stats)
+-->
 
-[![zkb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zkbkb&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zkbkb&hide_border=true&border_radius=4.4&card_width=594&card_height=234&exclude_days=Sun%2CFri%2CSat"/></a>
+</div>
+
+[![zkb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zkbkb&theme=github-compact&hide_border=true&days=20&custom_title=Kaibin's%20Contribution%20Graph&hide_title=falses&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### **I know a bit of...**
 
