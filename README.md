@@ -3,9 +3,8 @@
 -->
 <div style="font-family: 'Maple Mono NF CN', 'Maple Mono NF', 'Maple Mono', 'JetBrains Mono', 'Fira Code', 'SF Mono', monospace;">
 
-### **$ Hello!**
-
 <pre>
+  $ Hello!
   
 ┌─(**zkbkb@github**)─[~]
 │ 
@@ -41,6 +40,7 @@
 [4/4] bsky.app/profile/zkbkb.bsky.social DONE
   
 </pre>
+
 
 <!--
 <div align="center">
