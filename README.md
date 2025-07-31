@@ -3,19 +3,6 @@
 -->
 <div style="font-family: 'Maple Mono NF CN', 'Maple Mono NF', 'Maple Mono', 'JetBrains Mono', 'Fira Code', 'SF Mono', monospace;">
 
-<p>
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/css/flag-icons.min.css"
-/>
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/subframe7536/maple-font@variable/woff2/var/MapleMono-NF-CN-VF.woff2"
-/>
-
-</p>
-
-
 ### **$ Hello!**
 
 <pre>
@@ -55,6 +42,12 @@
   
 </pre>
 
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zkbkb&theme=tokyonight&hide_border=true"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zkbkb&hide_border=true&border_radius=4.4&exclude_days=Sun%2CFri%2CSat&fire=EB5454)](https://git.io/streak-stats)
+
+[![zkb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zkbkb&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### **I know a bit of...**
 
 <div align="center">
@@ -91,31 +84,4 @@
 - **[Coaxial Drone Flight Controller](https://github.com/zkbkb/General)** - Advanced dual-layer flight control system for coaxial UAV prototype. Based on LQG optimal control, quaternion attitude representation, while featuring object detection and tracking powered by YOLOv8.
 - **[APDS](https://github.com/zkbkb/APDS)** - A UAV performance analysis suite for drone power system optimization with combinatorial algorithms and data processing.
 
----
-
-
-
 <div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zkbkb&theme=tokyonight&hide_border=true"/>
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=zkbkb&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/kaibin-zhang">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zzkbkbb@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
-  </a>
-
-  <a href="https://instagram.com/zzzkkb">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="Instagram" />
-  </a>
-
-  <a href="https://bsky.app/profile/zkbkb.bsky.social">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=bluesky" alt="Bluesky" />
-  </a>
-</div>
