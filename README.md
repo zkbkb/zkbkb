@@ -42,9 +42,11 @@
   
 </pre>
 
+<div align="center">
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zkbkb&theme=tokyonight&hide_border=true"/>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zkbkb&hide_border=true&border_radius=4.4&exclude_days=Sun%2CFri%2CSat&fire=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zkbkb&hide_border=true&border_radius=4.4&exclude_days=Sun%2CFri%2CSat)](https://git.io/streak-stats)
 
 [![zkb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zkbkb&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
