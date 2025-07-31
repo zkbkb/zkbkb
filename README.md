@@ -33,8 +33,8 @@
 ║      ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝            ║
 ╠══════════════════════════════════════════════════════════╣
 ║  Name         │ Kaibin Zhang                             ║
-║  Status       │ BA Student                               ║
-║  Location     │ University College London, UK            ║
+║  Degree       │ B.A. History, Politics, and Economics    ║
+║  Institution  │ University College London, UK            ║
 ╚══════════════════════════════════════════════════════════╝
   
 ┌─(**zkbkb@github**)─[~] 
