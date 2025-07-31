@@ -49,25 +49,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=zkbkb&hide_border=true&border_radius=4.4&exclude_days=Sun%2CFri%2CSat)](https://git.io/streak-stats)
 -->
 
-792
-&card_height=234
-&card_width=594
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zkbkb&hide_border=true&border_radius=4.4&card_height=312&exclude_days=Sun%2CFri%2CSat"/></a>
-</div>
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zkbkb&hide_border=true&border_radius=4.4&card_height=234&exclude_days=Sun%2CFri%2CSat"/></a>
-</div>
-
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zkbkb&hide_border=true&border_radius=4.4&card_width=600&exclude_days=Sun%2CFri%2CSat"/></a>
 </div>
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zkbkb&hide_border=true&border_radius=4.4&card_width=600&exclude_days=Sun%2CFri%2CSat"/></a>
-</div>
-
 
 [![zkb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zkbkb&theme=github-compact&days=20&hide_border=true&hide_title=true&custom_title=Kaibin's%20Contribution%20Graph&area=true&area_color=FB8C00&line=FB8C00)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
