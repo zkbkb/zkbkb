@@ -19,8 +19,11 @@
 ### **$ Hello!**
 
 <pre>
+  
 ┌─(**zkbkb@github**)─[~]
+│ 
 └─➤ cat ~/.profile
+  
 ╔══════════════════════════════════════════════════════════╗
 ║      ██╗  ██╗ █████╗ ██╗██████╗ ██╗███╗   ██╗            ║
 ║      ██║ ██╔╝██╔══██╗██║██╔══██╗██║████╗  ██║            ║
@@ -33,7 +36,9 @@
 ║  Status       │ BA Student                               ║
 ║  Location     │ University College London, UK            ║
 ╚══════════════════════════════════════════════════════════╝
+  
 ┌─(**zkbkb@github**)─[~] 
+│ 
 └─➤ systemctl status developer.contact
   
 ● developer.contact - get info
