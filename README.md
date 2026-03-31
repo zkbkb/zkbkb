@@ -64,21 +64,21 @@
 
 ### **Currently building**
 
-- **Fusion-MCP** for AI-native CAD workflows and parametric automation
-- **AI and robotics tooling** that connects LLM workflows, simulation, and real-world systems
+- Fusion-MCP for AI-native CAD workflows and parametric automation
+- AI and robotics tooling that connects LLM workflows, simulation, and real-world systems
 
 ### **I know a bit of...**
 
 <div align="center">
 
 #### Software Development
-![Software development skills including Python, Java, C++, Swift, TypeScript, JavaScript, React, Flutter, and Figma](https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,swift,ts,js,html,css,react,tailwind,flutter,figma)
+![Software development skills including Python, Java, C++, Swift, TypeScript, JavaScript, HTML, CSS, React, Tailwind CSS, Flutter, and Figma](https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,swift,ts,js,html,css,react,tailwind,flutter,figma)
 
 #### Backend & Database
 ![Backend and database skills including FastAPI, Node.js, PostgreSQL, Supabase, Firebase, Cloudflare, and Google Cloud](https://go-skill-icons.vercel.app/api/icons?i=fastapi,nodejs,postgresql,supabase,firebase,cloudflare,gcp)
 
 #### AI/ML & Robotics
-![AI, machine learning, and robotics skills including PyTorch, TensorFlow, MATLAB, OpenCV, CUDA, Hugging Face, Jupyter, LangChain, Arduino, and Raspberry Pi](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,matlab,opencv,cuda,huggingface,jupyter,langchain,autocad,arduino,raspberrypi)
+![AI, machine learning, and robotics skills including PyTorch, TensorFlow, MATLAB, OpenCV, CUDA, Hugging Face, Jupyter, LangChain, AutoCAD, Arduino, and Raspberry Pi](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,matlab,opencv,cuda,huggingface,jupyter,langchain,autocad,arduino,raspberrypi)
 
 
 #### Visual & Creative
