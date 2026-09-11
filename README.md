@@ -1,7 +1,6 @@
 <!--
 **zkbkb/zkbkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div style="font-family: 'Maple Mono NF CN', 'Maple Mono NF', 'Maple Mono', 'JetBrains Mono', 'Fira Code', 'SF Mono', monospace;">
 
 <pre>
   $ Hello!
@@ -60,17 +59,16 @@
 <div align="center">
 
 #### Software Development
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,swift,ts,js,html,css,react,tailwind,flutter,figma)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,swift,react,tailwind)
 
 #### Backend & Database
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,nodejs,postgresql,supabase,firebase,cloudflare,gcp)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,nodejs,postgresql,supabase,cloudflare,gcp)
 
 #### AI/ML & Robotics
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,matlab,opencv,cuda,huggingface,jupyter,langchain,autocad,arduino,raspberrypi)
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,matlab,opencv,cuda,jupyter,langchain,arduino)
 
 #### Visual & Creative
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unrealengine,blender,davinci,ae,pr,ps,lightroom)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,unrealengine,blender,davinci,ae,pr,ps,lightroom)
 
 </div>
 
@@ -78,17 +76,10 @@
 
 ### Featured Projects
 
-**AI and MCPs**
-- **[Advancier](https://github.com/zkbkb/Advancier)** - Multi-agent knowledge management platform with FastAPI backend and React frontend. Features real-time semantic analysis, conversation branching, and PostgreSQL vector indexing.
-- **[Fusion-MCP](https://github.com/zkbkb/fusion-mcp)** - MCP server for AI-native CAD automation in Fusion 360. Supports 41 specialized operations with parametric design automation.
-
-**Mobile & Web Applications**
 - **[DashUCL](https://github.com/zkbkb/DashUCL)** - An iOS-native app that delivers essential campus information for UCL students through real-time UCL API integration.
+- **[Fusion-MCP](https://github.com/zkbkb/fusion-mcp)** - MCP server for AI-native CAD automation in Fusion 360. Supports 41 specialized operations with parametric design automation.
 - **[Gravity](https://github.com/zkbkb/Gravity)** - A Safari-like browser featuring one tap forwarding to a vectorized data storage for better AI-native experience.
-- **[Tuition Calculator](https://github.com/zkbkb/Tuition-Calculator)** - An interesting web app to show real-time tuition cost for every class.
-
-**Engineering & Simulation**
 - **[Coaxial Drone Flight Controller](https://github.com/zkbkb/General)** - Advanced dual-layer flight control system for coaxial UAV prototype. Based on LQG optimal control, quaternion attitude representation, while featuring object detection and tracking powered by YOLOv8.
 - **[APDS](https://github.com/zkbkb/APDS)** - A UAV performance analysis suite for drone power system optimization with combinatorial algorithms and data processing.
-
-<div align="center">
+- **[Tuition Calculator](https://github.com/zkbkb/Tuition-Calculator)** - An interesting web app to show real-time tuition cost for every class.
+- 
